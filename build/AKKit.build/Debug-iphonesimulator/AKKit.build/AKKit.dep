@@ -1,0 +1,7 @@
+00000000531e4f2b00000000000000d9 8d7ede599a177d3e1104d0b485d1dc99 ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKKit/build/Debug-iphonesimulator/Headers/AKGraphScrollView.h
+00000000531e507d00000000000000a0 82f391545b232c876d674bebbd5fb0eb ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKKit/build/Debug-iphonesimulator/Headers/AKKit.h
+00000000531e507d00000000000000a0 f523d4b68c955e4dcb8315aba9aa2730 ffffffffffffffffffffffffffffffff 160 /Users/yagi/GitHub/AKKit/build/Debug-iphonesimulator/include/AKKit/AKKit.h
+6f3bb5ff2c48a5ae69eb68e401ad233a 7aefcb23d9001f02478c66d9e62c72a5 ffffffffffffffffffffffffffffffff 0 /Users/yagi/GitHub/AKKit/build/Debug-iphonesimulator/libAKKit.a
+6d56160be82ded1a12d1bba8d3c155cb ba8977a0051292ee3df21c9498a646b2 ffffffffffffffffffffffffffffffff 1912 /Users/yagi/GitHub/AKKit/build/AKKit.build/Debug-iphonesimulator/AKKit.build/Objects-normal/x86_64/AKKit.o
+6d56160bbb33a23112d1bba8d3c15512 d5b2c25f7bdb6a1e5419747098583b55 ffffffffffffffffffffffffffffffff 47952 /Users/yagi/GitHub/AKKit/build/AKKit.build/Debug-iphonesimulator/AKKit.build/Objects-normal/x86_64/AKGraphScrollView.o
+00000000000000680000000000000b69 6d56160be82ded7212d1bba8d3c15ea2 ffffffffffffffffffffffffffffffff 112844 /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-bloidzgkrwvqwmhfmteliwymeonh/AKKit-Prefix.pch.pch

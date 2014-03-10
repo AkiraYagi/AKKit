@@ -1,0 +1,378 @@
+TAKKit
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.o /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o /Users/yagi/GitHub/AKKit/AKKit/AKKit.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.o /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o /Users/yagi/GitHub/AKKit/AKKit/AKKit.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.o /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.o /Users/yagi/GitHub/AKKit/AKKit/AKKit.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a normal armv7
+cLibtool /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a normal armv7s
+cLibtool /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a normal arm64
+cCreateUniversalBinary /Users/yagi/GitHub/AKKit/build/Release-iphoneos/libAKKit.a normal armv7\ armv7s\ arm64
+cPBXCp AKKit/AKKit.h build/Release-iphoneos/include/AKKit/AKKit.h
+cCpHeader AKKit/AKKit.h build/Release-iphoneos/Headers/AKKit.h
+cCpHeader AKKit/CustomKits/AKGraphScrollView.h build/Release-iphoneos/Headers/AKGraphScrollView.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c000000005281428E0000000000000110
+t1384202894
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000526842EC000000000000036B
+t1382564588
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526842ED00000000000001A0
+t1382564589
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526842F10000000000A92BC0
+t1382564593
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526842F900000000025A5AC0
+t1382564601
+s39475904
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005268437F0000000000000AC9
+t1382564735
+s2761
+
+N/Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch
+c00000000531E4ED900000000000000B6
+t1394495193
+s182
+
+N/Users/yagi/GitHub/AKKit/AKKit/AKKit.h
+c00000000531E507D00000000000000A0
+t1394495613
+s160
+
+N/Users/yagi/GitHub/AKKit/AKKit/AKKit.m
+c00000000531E4F790000000000000081
+t1394495353
+s129
+
+N/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.h
+c00000000531E4F2B00000000000000D9
+t1394495275
+s217
+
+N/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m
+c00000000531E4F6300000000000004D5
+t1394495331
+s1237
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.o
+t1394495710
+s47580
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.LinkFileList
+c00000000531E50DC00000000000000D6
+t1394495708
+s214
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.o
+t1394495709
+s2296
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a
+t1394495710
+s50224
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.o
+t1394495710
+s46844
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.LinkFileList
+c00000000531E50DC00000000000000D6
+t1394495708
+s214
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o
+t1394495709
+s1888
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a
+t1394495710
+s49080
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.o
+t1394495710
+s46852
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.LinkFileList
+c00000000531E50DC00000000000000D8
+t1394495708
+s216
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o
+t1394495709
+s1888
+
+N/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a
+t1394495710
+s49088
+
+N/Users/yagi/GitHub/AKKit/build/Release-iphoneos/Headers/AKGraphScrollView.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKKit/build/Release-iphoneos/Headers/AKKit.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include/AKKit/AKKit.h
+t2
+s0
+
+N/Users/yagi/GitHub/AKKit/build/Release-iphoneos/libAKKit.a
+t2
+s0
+
+N/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.pch
+t1394495709
+s84120
+
+N/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.pch
+t1394495709
+s107680
+
+N/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.pch
+t1394495709
+s84104
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc77fcd5c88ceb841^b4aadd5c88ceb841^---0#1#1#--18"Check dependencies36"20BC8BFC-5750-4557-91C2-9518DA38F565-
+
+CCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.o /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188509.654720
+e416188510.261585
+r1
+xCompileC
+xbuild/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.o
+x/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m
+d/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m202"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.o AKKit/CustomKits/AKGraphScrollView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler25eca75d88ceb841^6efb425e88ceb841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m0000000000000000^3100"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.o AKKit/CustomKits/AKGraphScrollView.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/arm64 -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.d --serialize-diagnostics /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.dia -c /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKGraphScrollView.o36"224A50AB-1EFD-4C40-8A06-5285A3861554-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.o /Users/yagi/GitHub/AKKit/AKKit/AKKit.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188509.654899
+e416188509.787765
+r1
+xCompileC
+xbuild/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.o
+x/Users/yagi/GitHub/AKKit/AKKit/AKKit.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/AKKit.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/yagi/GitHub/AKKit/AKKit/AKKit.m167"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.o AKKit/AKKit.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler89f0a75d88ceb841^5cabc95d88ceb841^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/yagi/GitHub/AKKit/AKKit/AKKit.m0000000000000000^3006"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.o AKKit/AKKit.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/arm64 -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.d --serialize-diagnostics /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.dia -c /Users/yagi/GitHub/AKKit/AKKit/AKKit.m -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.o36"C4AB5326-7C30-4AEB-90EB-518064F23460-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.o /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188509.522012
+e416188510.215973
+r1
+xCompileC
+xbuild/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.o
+x/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m
+d/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m202"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.o AKKit/CustomKits/AKGraphScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf9f7855d88ceb841^ea5a375e88ceb841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m0000000000000000^3100"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.o AKKit/CustomKits/AKGraphScrollView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.d --serialize-diagnostics /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.dia -c /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKGraphScrollView.o36"9769156C-8E79-425C-BA5D-CA91BDF0C60C-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o /Users/yagi/GitHub/AKKit/AKKit/AKKit.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188509.522205
+e416188509.654546
+r1
+xCompileC
+xbuild/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o
+x/Users/yagi/GitHub/AKKit/AKKit/AKKit.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/AKKit.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/yagi/GitHub/AKKit/AKKit/AKKit.m167"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o AKKit/AKKit.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler1eff855d88ceb841^ef8fa75d88ceb841^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/yagi/GitHub/AKKit/AKKit/AKKit.m0000000000000000^3006"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o AKKit/AKKit.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.d --serialize-diagnostics /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.dia -c /Users/yagi/GitHub/AKKit/AKKit/AKKit.m -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o36"B0DE2417-FE0E-4AD1-A977-596F550BF12B-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.o /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188509.522443
+e416188510.215943
+r1
+xCompileC
+xbuild/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.o
+x/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m
+d/Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m204"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.o AKKit/CustomKits/AKGraphScrollView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6c08865d88ceb841^ba4a375e88ceb841^---0#0#1#-19%DVTDocumentLocation2@68"file:///Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m0000000000000000^3107"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.o AKKit/CustomKits/AKGraphScrollView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/armv7s -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.d --serialize-diagnostics /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.dia -c /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.m -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKGraphScrollView.o36"E3F5EFCE-848C-4EA5-B7A2-4C5723AD7143-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o /Users/yagi/GitHub/AKKit/AKKit/AKKit.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188509.523349
+e416188509.654373
+r1
+xCompileC
+xbuild/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o
+x/Users/yagi/GitHub/AKKit/AKKit/AKKit.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/AKKit.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/yagi/GitHub/AKKit/AKKit/AKKit.m169"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o AKKit/AKKit.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler6f45865d88ceb841^a984a75d88ceb841^---0#0#1#-19%DVTDocumentLocation2@45"file:///Users/yagi/GitHub/AKKit/AKKit/AKKit.m0000000000000000^3013"CompileC build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o AKKit/AKKit.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/armv7s -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos -include /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch -MMD -MT dependencies -MF /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.d --serialize-diagnostics /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.dia -c /Users/yagi/GitHub/AKKit/AKKit/AKKit.m -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o36"65B21E8E-1E5F-4AEB-86AE-22315A323557-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCpHeader AKKit/AKKit.h build/Release-iphoneos/Headers/AKKit.h
+s416188510.309004
+e416188510.311292
+r1
+xCpHeader
+xAKKit/AKKit.h
+xbuild/Release-iphoneos/Headers/AKKit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/Release-iphoneos/Headers/AKKit.h61"CpHeader AKKit/AKKit.h build/Release-iphoneos/Headers/AKKit.hf1644f5e88ceb841^51bb4f5e88ceb841^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/yagi/GitHub/AKKit/build/Release-iphoneos/Headers/AKKit.h00345c60ddffdf42^427"CpHeader AKKit/AKKit.h build/Release-iphoneos/Headers/AKKit.h    cd /Users/yagi/GitHub/AKKit    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/yagi/GitHub/AKKit/AKKit/AKKit.h /Users/yagi/GitHub/AKKit/build/Release-iphoneos/Headers36"AA7311B4-C844-4630-AC56-9FDF92E96A86-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCpHeader AKKit/CustomKits/AKGraphScrollView.h build/Release-iphoneos/Headers/AKGraphScrollView.h
+s416188510.309257
+e416188510.310929
+r1
+xCpHeader
+xAKKit/CustomKits/AKGraphScrollView.h
+xbuild/Release-iphoneos/Headers/AKGraphScrollView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/Release-iphoneos/Headers/AKGraphScrollView.h96"CpHeader AKKit/CustomKits/AKGraphScrollView.h build/Release-iphoneos/Headers/AKGraphScrollView.hd8664f5e88ceb841^caa34f5e88ceb841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/yagi/GitHub/AKKit/build/Release-iphoneos/Headers/AKGraphScrollView.h00345c60ddffdf42^485"CpHeader AKKit/CustomKits/AKGraphScrollView.h build/Release-iphoneos/Headers/AKGraphScrollView.h    cd /Users/yagi/GitHub/AKKit    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/yagi/GitHub/AKKit/AKKit/CustomKits/AKGraphScrollView.h /Users/yagi/GitHub/AKKit/build/Release-iphoneos/Headers36"3E6513E4-9EA3-45B1-9251-7498069E6C52-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CCreateUniversalBinary /Users/yagi/GitHub/AKKit/build/Release-iphoneos/libAKKit.a normal armv7\ armv7s\ arm64
+s416188510.273580
+e416188510.305272
+r1
+xCreateUniversalBinary
+x/Users/yagi/GitHub/AKKit/build/Release-iphoneos/libAKKit.a
+xnormal
+xarmv7 armv7s arm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7 file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a(AKKit.o) has no symbols
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7s file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a(AKKit.o) has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Create universal binary /Users/yagi/GitHub/AKKit/build/Release-iphoneos/libAKKit.a83"CreateUniversalBinary build/Release-iphoneos/libAKKit.a normal armv7\ armv7s\ arm64d844465e88ceb841^39274e5e88ceb841^-510"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7 file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a(AKKit.o) has no symbols/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: for architecture: armv7s file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a(AKKit.o) has no symbols-0#0#1#-19%DVTDocumentLocation2@65"file:///Users/yagi/GitHub/AKKit/build/Release-iphoneos/libAKKit.a00345c60ddffdf42^511"CreateUniversalBinary build/Release-iphoneos/libAKKit.a normal armv7\ armv7s\ arm64    cd /Users/yagi/GitHub/AKKit    libtool -static /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a -o /Users/yagi/GitHub/AKKit/build/Release-iphoneos/libAKKit.a36"44DB6C65-0AF0-4B48-9E86-09A28697D42C-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CLibtool /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a normal arm64
+s416188510.263082
+e416188510.272746
+r1
+xLibtool
+x/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a normal arm6499"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a normal arm641fa0435e88ceb841^a4e4455e88ceb841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--736"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a normal arm64    cd /Users/yagi/GitHub/AKKit    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/yagi/GitHub/AKKit/build/Release-iphoneos -filelist /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/AKKit.LinkFileList -ObjC -framework UIKit -framework Foundation -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/arm64/libAKKit.a36"4868E7DF-2D78-44AD-A734-EC698601F1E3-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CLibtool /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a normal armv7
+s416188510.262446
+e416188510.271656
+r1
+xLibtool
+x/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a normal armv799"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a normal armv71075435e88ceb841^cdac455e88ceb841^-377"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.o has no symbols-0#0#1#--736"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a normal armv7    cd /Users/yagi/GitHub/AKKit    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/yagi/GitHub/AKKit/build/Release-iphoneos -filelist /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/AKKit.LinkFileList -ObjC -framework UIKit -framework Foundation -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7/libAKKit.a36"891DA8A1-0B58-427C-B0DB-F4F7A2767F56-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CLibtool /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a normal armv7s
+s416188510.262879
+e416188510.271660
+r1
+xLibtool
+x/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o has no symbols
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a normal armv7s101"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a normal armv7sed9f435e88ceb841^fa9a455e88ceb841^-378"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.o has no symbols-0#0#1#--741"Libtool build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a normal armv7s    cd /Users/yagi/GitHub/AKKit    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/yagi/GitHub/AKKit/build/Release-iphoneos -filelist /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/AKKit.LinkFileList -ObjC -framework UIKit -framework Foundation -o /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/Objects-normal/armv7s/libAKKit.a36"7DF08CE1-09DF-4F47-BCF0-B16D346236FE-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CPBXCp AKKit/AKKit.h build/Release-iphoneos/include/AKKit/AKKit.h
+s416188510.306143
+e416188510.308413
+r1
+xPBXCp
+xAKKit/AKKit.h
+xbuild/Release-iphoneos/include/AKKit/AKKit.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/Release-iphoneos/include/AKKit/AKKit.h64"PBXCp AKKit/AKKit.h build/Release-iphoneos/include/AKKit/AKKit.h8eae4e5e88ceb841^f1f44e5e88ceb841^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/yagi/GitHub/AKKit/build/Release-iphoneos/include/AKKit/AKKit.h00345c60ddffdf42^436"PBXCp AKKit/AKKit.h build/Release-iphoneos/include/AKKit/AKKit.h    cd /Users/yagi/GitHub/AKKit    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/yagi/GitHub/AKKit/AKKit/AKKit.h /Users/yagi/GitHub/AKKit/build/Release-iphoneos/include/AKKit36"C7C40C43-1547-423F-812B-7855AD60010A-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188508.865881
+e416188509.445262
+r1
+xProcessPCH
+x/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.pch
+xAKKit/AKKit-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile AKKit/AKKit-Prefix.pch302"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb22ede5c88ceb841^2bfc715d88ceb841^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch0000000000000000^3245"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/armv7 -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos --serialize-diagnostics /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.d -c /Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch -o /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-agqslnvhpthirectwbgrgkkupccj/AKKit-Prefix.pch.pch36"C7554283-CEAF-42B0-8DEC-DE407F078C60-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188508.868046
+e416188509.430662
+r1
+xProcessPCH
+x/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.pch
+xAKKit/AKKit-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile AKKit/AKKit-Prefix.pch302"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler45a0de5c88ceb841^8e3e6e5d88ceb841^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch0000000000000000^3245"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/arm64 -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos --serialize-diagnostics /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.d -c /Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch -o /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-akqsebvztfniyphkmrtdqgppsssk/AKKit-Prefix.pch.pch36"5EF9AB3E-792F-432B-AB31-53A8CC498A2D-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
+CProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s416188508.866648
+e416188509.521144
+r1
+xProcessPCH
+x/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.pch
+xAKKit/AKKit-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile AKKit/AKKit-Prefix.pch303"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler1633de5c88ceb841^e469855d88ceb841^---0#0#1#-19%DVTDocumentLocation2@54"file:///Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch0000000000000000^3248"ProcessPCH /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.pch AKKit/AKKit-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/yagi/GitHub/AKKit    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/ModuleCache -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-generated-files.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-own-target-headers.hmap -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-all-target-headers.hmap -iquote /Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/AKKit-project-headers.hmap -I/Users/yagi/GitHub/AKKit/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources/armv7s -I/Users/yagi/GitHub/AKKit/build/AKKit.build/Release-iphoneos/AKKit.build/DerivedSources -F/Users/yagi/GitHub/AKKit/build/Release-iphoneos --serialize-diagnostics /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.d -c /Users/yagi/GitHub/AKKit/AKKit/AKKit-Prefix.pch -o /var/folders/qw/fzbf05k57bb46x7xr0ls0tb80000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/AKKit-Prefix-elfaluzyprnqhgfuebperqabhbxx/AKKit-Prefix.pch.pch36"101503D0-F4E2-4E1D-877F-E7DEA782D459-
+b0EB1AE30-AB52-4276-8154-5C19004B8DA7
+
